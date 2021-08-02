@@ -1,0 +1,39 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.lorem1{
+    color: rgb(0, 0, 0);
+    background-color: #9acd32;
+}
+
+.lorem2{
+    color: rgb(0, 0, 0);
+    background-color: #9acd32;
+}
+
+.lorem3{
+    
+    color: rgb(0, 0, 0);
+    background-color: #9acd32;
+
+}
+
+
+#lorem1{
+    
+    background-color: rgba(128, 128, 0, 0.5);
+    color: rgb(255, 25, 20);
+}
+
+#lorem2{
+    
+    background-color: rgba(128, 128, 0, 0.5);
+    color: hsl(1, 100%, 54%);
+}
+
+#lorem3{
+    
+    background-color: rgba(128, 128, 0, 0.5);
+    color: hsla(1, 100%, 54%, 0.75);
+}
