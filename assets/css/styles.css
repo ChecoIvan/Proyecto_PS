@@ -1,3 +1,11 @@
+@import url(bordes.css);
+@import url(colores.css);
+@import url(margin-padd.css);
+@import url(texto.css);
+@import url(tablas.css);
+@import url(listas.css);
+
+
 * {
     font-family: 'Times New Roman', Times, serif;
 }
