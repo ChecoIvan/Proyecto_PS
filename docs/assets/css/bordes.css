@@ -1,0 +1,41 @@
+
+div {
+
+    width: 600px;
+    height: 250px;
+    background-color: lightgray;
+    margin-top: 10px;
+}
+
+
+.border1 {
+    border: dotted;
+    border-width: 7px;
+    border-color: #008000;
+}
+
+.border2 {
+    border: 7px dashed #800080;
+}
+
+.border3 {
+    border: 7px solid coral;
+}
+
+.border4 {
+    border: outset;
+    background-color: #008080;
+}
+
+.border5 {
+    border-top: dotted;
+    border: dashed;
+    border-bottom: solid;
+    border-left: outset;
+}
+
+.border6 {
+    border: double;
+    background-color: #808080;
+    border-color: #800000;
+}
